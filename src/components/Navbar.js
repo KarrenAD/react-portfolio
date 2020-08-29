@@ -25,11 +25,11 @@ const Navbar = () => {
                         </Link>
                     </li>
 
-                    {/* <li className="nav-item">
-                        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+                    <li className="nav-item">
+                        <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
                             Contact
                         </Link>
-                    </li> */}
+                    </li> 
 
                     
                 </ul>

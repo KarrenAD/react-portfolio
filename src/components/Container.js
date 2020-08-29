@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./Navbar";
 import Home from "./Home/index";
 import Portfolio from "./Portfolio/index";
+import Form from "./Contact/index"
 import Footer from "./Footer";  
 
 
@@ -15,6 +16,7 @@ class Container extends Component {
                     <Navbar />
                     <Route exact path="/" component={Home}/>
                     <Route exact path="/portfolio" component={Portfolio}/>
+                    <Route exact path="/contact" component={Form}/>
                     <Footer />
                 </div>
             </Router>
