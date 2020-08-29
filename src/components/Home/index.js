@@ -1,4 +1,6 @@
 import React from "react";
+import hs150200 from "./hs150200.jpg";
+import adkresume from "./adkresume.pdf"
 
 const Home = () => {
     return(
@@ -12,7 +14,13 @@ const Home = () => {
         </div>
         <div className ="row mt-3">
               <div className ="col-md-3">
-                <img src="./resources/hs150200.jpg" alt="Austin's Headshot" className="img-thumbnail"/>
+
+                <img 
+                    // className="img-thumbnail"
+                    src={hs150200} 
+                    alt="Austin's Headshot"
+                />
+
               </div>
               <div className ="col-md-5">
                 <p className = "text-white google-font" >
@@ -26,7 +34,7 @@ const Home = () => {
                     <p className="text-center google-font card-text">Want to see Austin's professional profile or peek at his code? Click the links below!</p>
                     <a href="https://www.linkedin.com/in/austin-karren-2ba879187/" className="google-font text-warning card-link">LinkedIn</a>
                     <a href="https://github.com/KarrenAD" className="google-font text-warning card-link">GitHub</a>
-                    <a href="./resources/adkresume.pdf" className="google-font text-warning card-link">Resume</a>
+                    <a href={adkresume} className="google-font text-warning card-link">Resume</a>
                   </div>
                 </div>
               </div>
