@@ -14,7 +14,7 @@ class Container extends Component {
             <Router>
                 <div>
                     <Navbar />
-                    <Route exact path="/" component={Home}/>
+                    <Route exact path="/react-portfolio" component={Home}/>
                     <Route exact path="/portfolio" component={Portfolio}/>
                     <Route exact path="/contact" component={Form}/>
                     <Footer />
