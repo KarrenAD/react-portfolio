@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 import Home from "./Home/index";
 import Portfolio from "./Portfolio/index";
 import Form from "./Contact/index"
-import Footer from "./Footer";  
+import Footer from "./Footer/Footer";  
 
 
 

@@ -11,13 +11,13 @@ class Form extends React.Component {
     render() {
         return(
         <div className ="container h-50 bg-dark">
-        <div className = "row mt-3">
+        {/* <div className = "row mt-3">
             <div className = "col-md-8">
             <div className = "page-header">
                 <h1 className= "mt-4 text-white">Contact</h1>
             </div>
             </div>
-        </div>
+        </div> */}
     
 
         <div className="App">
