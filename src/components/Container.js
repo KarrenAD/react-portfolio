@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./Navbar";
 import Home from "./Home/index";
-import ProjectPage from "./Projects/index";
+import Portfolio from "./Portfolio/index";
 import Footer from "./Footer";  
 
 
@@ -14,7 +14,7 @@ class Container extends Component {
                 <div>
                     <Navbar />
                     <Route exact path="/" component={Home}/>
-                    <Route exact path="/projects" components={ProjectPage}/>
+                    <Route exact path="/portfolio" component={Portfolio}/>
                     <Footer />
                 </div>
             </Router>
