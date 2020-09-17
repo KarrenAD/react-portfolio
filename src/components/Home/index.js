@@ -1,5 +1,5 @@
 import React from "react";
-import hs150200 from "./hs150200.jpg";
+import hs2 from "./hs2.png";
 import adkresume from "./adkresume.pdf"
 
 const Home = () => {
@@ -17,14 +17,14 @@ const Home = () => {
 
                 <img 
                     // className="img-thumbnail"
-                    src={hs150200} 
+                    src={hs2} 
                     alt="Austin's Headshot"
                 />
               </div>
 
               <div className ="col-md-5 mt-3 mb-6">
                 <p className = "text-white google-font" >
-                  Austin is a programming student and problem-solving enthusiast. He began studying code in elementary school using the language "PC Logo". He is now going to school to learn full-stack web development and hopes to find full-time work in the field after he has graduated. When not working on code, Austin spends time with his family, strength trains, and plays video games socially with his friends and family. 
+                  Austin is a U of U-certified Full Stack Web Developer with a passion for collaborative problem solving and coding. He spent four years in the Navy as a computer hardware technician, troubleshooting and maintaining computer radar systems on the USS Cowpens. His immediate goal is to find work as a web developer and to be part of a team that develops the best web applications for their clients. 
                 </p>
               </div>
               <div className="col-md-4 mt-3 mb-6">
