@@ -25,7 +25,7 @@ const Portfolio = () => {
                                 <h5 className="card-title text-center">Entertainment App!</h5>
                             </div>
                         <div className="row">
-                            <a className = "card-link text-warning" href="https://karrenad.github.io/p1-entertainment-suggestions/">
+                            <a className = "card-link text-warning" href="https://karrenad.github.io/media-api-group-project/">
                                 <img 
                                     src={bored} 
                                     alt="entertainment app"
@@ -69,7 +69,7 @@ const Portfolio = () => {
                                 <h5 className="card-title text-center">Weather App!</h5>
                             </div>
                         <div className="row">
-                            <a className = "card-link text-warning" href="https://karrenad.github.io/w6hw-weather-api/">
+                            <a className = "card-link text-warning" href="https://karrenad.github.io/local-weather/">
                                 <img
                                     src={weather}
                                     alt="Weather Application"
@@ -94,25 +94,20 @@ const Portfolio = () => {
                       <h5 className="card-title text-center">SMALL BUT NOTEWORTHY APPS!</h5>
                     </div>
                     <div className="mt-1 row">
-                      <a className = "card-link text-warning" href="https://karrenad.github.io/w5hw-day-planner/"> Day Planner</a>
+                      <a className = "card-link text-warning" href="https://karrenad.github.io/day-planner/"> Day Planner Web App</a>
                     </div>
                     <div className="mt-1 row">
-                      <a className = "card-link text-warning" href="https://karrenad.github.io/w3hw-password-generator/"> Password Generator</a>
+                      <a className = "card-link text-warning" href="https://karrenad.github.io/password-generator/"> Password Generator</a>
                     </div>
                     <div className="mt-1 row">
-                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/w9hw-readme-generator"> NodeJS README Generator</a>
+                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/readme-generator"> NodeJS README Generator</a>
                     </div>
                     <div className="mt-1 row">
-                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/w12hw-employee-tracker"> SQL Employee Database</a>
+                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/mySQL-employee-database"> SQL Employee Database</a>
                     </div>
                   </div>
                 </div>
               </div>
-
-
-
-
-
 
 
 
