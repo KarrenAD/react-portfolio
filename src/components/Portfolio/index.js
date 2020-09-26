@@ -73,6 +73,7 @@ const Portfolio = () => {
                 </div>
             {/* SMALLER ASSIGNMENTS */}
             </div>
+            
 
             <div class="row justify-content-center">
                 <div className="mb-5 mt-3 card bg-secondary" >
@@ -81,7 +82,7 @@ const Portfolio = () => {
                       <h5 className="card-title text-center">SMALL BUT NOTEWORTHY APPS!</h5>
                     </div>
                     <div className="mt-1 row justify-content-center">
-                      <a className = "card-link text-warning" href="https://karrenad.github.io/password-generator/"> Password Generator</a>
+                      <a className = "card-link text-warning" href="https://karrenad.github.io/password-generator-two/"> Password Generator</a>
                     </div>
                     <div className="mt-1 row justify-content-center">
                       <a className = "card-link text-warning" href="https://karrenad.github.io/day-planner/"> Day Planner Web App</a>
