@@ -1,4 +1,5 @@
 ## React Portfolio
 
-Link to deployed page:
+https://karrenad.github.io/react-portfolio/
 
+Built with React App!
