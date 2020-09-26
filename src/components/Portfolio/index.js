@@ -16,7 +16,7 @@ const Portfolio = () => {
                                 <h5 className="card-title text-center">Entertainment App!</h5>
                             </div>
                         <div className="row justify-content-center">
-                            <a className = "card-link text-warning" href="https://karrenad.github.io/media-api-group-project/">
+                            <a className = "card-link text-warning" href="https://karrenad.github.io/media-api-group-project/" target="_blank">
                                 <img 
                                     src={bored} 
                                     alt="entertainment app"
@@ -37,7 +37,7 @@ const Portfolio = () => {
                                 <h5 className="card-title text-center">BIER RUN!</h5>
                             </div>
                         <div className="row justify-content-center">
-                            <a className = "card-link text-warning" href="https://bier-run.herokuapp.com/">
+                            <a className = "card-link text-warning" href="https://bier-run.herokuapp.com/" target="_blank">
                                 <img 
                                     src={bier} 
                                     alt="BIER RUN"
@@ -58,7 +58,7 @@ const Portfolio = () => {
                                 <h5 className="card-title text-center">Weather App!</h5>
                             </div>
                         <div className="row justify-content-center">
-                            <a className = "card-link text-warning" href="https://karrenad.github.io/local-weather/">
+                            <a className = "card-link text-warning" href="https://karrenad.github.io/local-weather/" target="_blank">
                                 <img
                                     src={weather}
                                     alt="Weather Application"
@@ -71,10 +71,9 @@ const Portfolio = () => {
                         </div>
                     </div>
                 </div>
-            {/* SMALLER ASSIGNMENTS */}
             </div>
-            
 
+            {/* SMALLER ASSIGNMENTS */}     
             <div class="row justify-content-center">
                 <div className="mb-5 mt-3 card bg-secondary" >
                   <div className="card-body">
@@ -82,16 +81,16 @@ const Portfolio = () => {
                       <h5 className="card-title text-center">SMALL BUT NOTEWORTHY APPS!</h5>
                     </div>
                     <div className="mt-1 row justify-content-center">
-                      <a className = "card-link text-warning" href="https://karrenad.github.io/password-generator-two/"> Password Generator</a>
+                      <a className = "card-link text-warning" href="https://karrenad.github.io/password-generator-two/" target="_blank"> Password Generator</a>
                     </div>
                     <div className="mt-1 row justify-content-center">
-                      <a className = "card-link text-warning" href="https://karrenad.github.io/day-planner/"> Day Planner Web App</a>
+                      <a className = "card-link text-warning" href="https://karrenad.github.io/day-planner/" target="_blank"> Day Planner Web App</a>
                     </div>
                     <div className="mt-1 row justify-content-center">
-                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/readme-generator"> NodeJS README Generator</a>
+                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/readme-generator" target="_blank"> NodeJS README Generator</a>
                     </div>
                     <div className="mt-1 row justify-content-center">
-                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/mySQL-employee-database"> SQL Employee Database</a>
+                      <a className = "card-link text-warning" href="https://github.com/KarrenAD/mySQL-employee-database" target="_blank"> SQL Employee Database</a>
                     </div>
                   </div>
                 </div>
