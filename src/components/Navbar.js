@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-import "./button.css"
+// import "./button.css"
 
 
 const Navbar = () => {
@@ -38,10 +38,10 @@ const Navbar = () => {
                     </li>                     
                 </ul>
 
-                <label className="switch">
+                {/* <label className="switch">
                     <input type="checkbox"/>
                     <span className="slider round"></span>
-                </label>
+                </label> */}
 
             </div>
       </nav>

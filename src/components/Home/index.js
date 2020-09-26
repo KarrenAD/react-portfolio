@@ -24,7 +24,7 @@ const Home = () => {
 
               <div className ="col-md-5 mt-3 mb-6">
                 <p className = "text-white google-font" >
-                  Austin is a U of U-certified Full Stack Web Developer with a passion for collaborative problem solving and coding. He spent four years in the Navy as a computer hardware technician, troubleshooting and maintaining computer radar systems on the USS Cowpens. His immediate goal is to find work as a web developer and to be part of a team that develops the best web applications for their clients. 
+                  Austin is a U of U-certified Full Stack Web Developer with a passion for collaborative problem solving and coding. He spent four years in the Navy as a computer hardware technician, troubleshooting and maintaining computer radar systems on the USS Cowpens. His immediate goal is to find work as a engineer or developer and to be part of a team that creates the best applications for their clients. 
                 </p>
               </div>
               <div className="col-md-4 mt-3 mb-6">
