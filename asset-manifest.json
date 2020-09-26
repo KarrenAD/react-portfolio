@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.aecabbdd.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.aecabbdd.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.babb38e4.chunk.js": "/react-portfolio/static/js/2.babb38e4.chunk.js",
+    "static/js/2.babb38e4.chunk.js.map": "/react-portfolio/static/js/2.babb38e4.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.1fa4e5febafce191ba5a0408639c8bbf.js": "/react-portfolio/precache-manifest.1fa4e5febafce191ba5a0408639c8bbf.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.babb38e4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.babb38e4.chunk.js.LICENSE.txt",
+    "static/media/adkresume.pdf": "/react-portfolio/static/media/adkresume.21b43e2b.pdf",
+    "static/media/bier.png": "/react-portfolio/static/media/bier.cba64367.png",
+    "static/media/bored.png": "/react-portfolio/static/media/bored.70f202dd.png",
+    "static/media/hs2.png": "/react-portfolio/static/media/hs2.8d30a8f4.png",
+    "static/media/navy.png": "/react-portfolio/static/media/navy.4b72f01c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.babb38e4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aecabbdd.chunk.js"
+  ]
+}
